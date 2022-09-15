@@ -1,0 +1,2 @@
+[ ] secret key is in settings.py. How to hide?
+[ ] comment out debug=true in settings.py
